@@ -1,0 +1,17 @@
+.moons{
+    color: greenyellow;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    font-style: italic;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    color: aqua;
+}
+
+body{
+    background-image: linear-gradient( to top, #000000, #b3b2b2, #8a8787 );
+}
